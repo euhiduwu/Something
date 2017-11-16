@@ -1,0 +1,317 @@
+body{
+	font-size: 12px;
+}
+a{
+	text-decoration: none !important;
+}
+.list-group{
+	box-shadow: none;
+	margin-bottom: 0
+}
+.list-group-item{
+	padding: 5px 15px 5px 0;
+	border-left-style: none;
+	border-right-style: none;
+}
+.thumbnail,.panel{
+	border-style: none;
+	box-shadow: none;
+}
+.panel .panel-heading span{
+	font-size: 15px;
+	color: #072;
+}
+.panel{
+	margin-bottom: 0;
+}
+.panel-heading,.panel-body{
+	padding-left: 0;
+}
+#login{
+	background-color: rgb(237,244,237);
+}
+.backGround{
+	background-color: #f7f7f7;
+}
+#popular .thumbnail span{
+	color: #999 !important;
+}
+#popular .col-lg-4 p{
+	color: #999;
+}
+#popular .middleSize p{
+	font-size: 14px;
+}
+#time p{
+	color: #999;
+}
+#time .thumbnail,#movie .thumbnail,#study .thumbnail,#shopping .thumbnail{
+	background-color: #f7f7f7;
+}
+#video a{
+	font-size: 13px;
+	color: #494949;
+}
+#video .panel{
+	margin-bottom: 5px;
+}
+#movie .panel .thumbnail+p a{
+	font-size: 13px !important;
+	color: #333;
+}
+#video .panel .panel-body{
+	padding: 0;
+}
+.col-lg-2 p a{
+	font-size: 14px;
+}
+#movie img{
+	display: inline-block;
+	width: 108px;
+	height: 150px;
+}
+#movie .astyle p a{
+	display: inline-block;
+	width: 3em;
+}
+#movie .astyle .panel{
+	margin-bottom: 0;
+}
+#movie .astyle .panel-heading{
+	padding-left: 0;
+}
+#movie .panel .panel-body{
+	padding: 0;
+}
+#movie .list-group-item,#shopping .list-group-item{
+	background-color: #f7f7f7;
+}
+#group a{
+	color: #017a85;
+	font-size: 13px;
+}
+#group p{
+	color: #999;
+}
+#group .title a{
+	font-size: 14px;
+}
+#group .title h3 a{
+	font-size: 24px;
+}
+#group .right p,#city .right p{
+	margin-bottom: 0;
+	margin-top: 10px;
+}
+#group .right a,#city .right a{
+	font-size: 12px;
+	display: inline-block;
+	width: auto;
+	min-width: 3em;
+}
+#group .right p a,#city .right p a{
+	line-height: 1.62;
+	width: auto;
+	color: #333;
+	font-size: 14px;
+}
+#group .media{
+	padding-bottom: 8px;
+}
+#study a{
+	color: #666;
+}
+#study img{
+	display: inline-block;
+	width: 102px;
+	height: 145px;
+}
+#study .list-group-item{
+	background-color: #f7f7f7;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+#study .list-group-item span{
+	color: #999;
+	padding-top: 5px;
+}
+#study .list-group-item a{
+	display: inline-block;
+	padding: 5px 5px 0 0;
+	color: #666;
+}
+#music a{
+	color: #333;
+}
+#music .title h3 a{
+	color: #f38c00;
+}
+#music .right span{
+	color: #999;
+}
+#music .right .panel-heading span{
+	color: #072;
+}
+#music .paddingZero{
+	padding-bottom: 0;
+}
+#shopping .title{
+	color: #1f9432;
+}
+#shopping .right a{
+	font-size: 13px;
+}
+#shopping .right span{
+	font-size: 12px;
+	color: #6a6a6a;
+}
+#shopping .center a{
+	display: inline-block;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	max-width: 100%;
+}
+#shopping .left p a{
+	color: #343434;
+}
+#shopping .price p{
+	position: relative;
+}
+#shopping .price p a{
+	font-size: 14px;
+}
+#shopping .price p span{
+	position: absolute;
+	right: 0;
+	font-size: 13px;
+	color: #6a6a6a;
+}
+#city{
+	padding-bottom: 20px;
+}
+#city .title a{
+	color: #666;
+}
+#city .title h3 a{
+	color: #ec5303;
+}
+#city .astyle a{
+	color: #666;
+}
+#city .center p{
+	margin-bottom: 0;
+}
+#city .media{
+	margin-bottom: 20px;
+}
+#city .media-body p:nth-child(-n+1){
+	margin-bottom: 10px;
+}
+#footer .border{
+	border-top: 1px dashed #dcdcdc;
+}
+#footer div div p:nth-child(-n+1){
+	margin-top: 15px;
+}
+#footer p{
+	color: #999;
+	line-height: 1.62;
+	margin-bottom: 0;
+}
+.navbar a{
+	font-size: 20px;
+}
+.navbar .study{
+	color: rgb(88,64,41);
+}
+.navbar .movie{
+	color: 
+}
+.navbar .music{
+	color: rgb(243,127,0);
+}
+.navbar .group{
+	color: rgb(15,149,157);
+}
+.navbar .city{
+	color: rgb(232,82,5);
+}
+.navbar .video{
+	color: rgb(154,214,157);
+}
+.navbar .time{
+	color: 
+}
+.navbar .shopping{
+	color: #072;
+}
+.navbar .imga{
+	padding-top: 10px;
+}
+.navbar .input{
+	min-width: 260px;
+	padding-left: 0;
+}
+#login .downBack{
+	background-color: #00B51D;
+	color: #fff;
+}
+#login .form-group input{
+	display: inline-block;
+	min-height: 30px;
+	margin-top: 10px;
+}
+#login .form-group{
+	margin-bottom: 0;
+}
+#login button{
+	display: inline-block;
+	height: 30px;
+}
+#login .btn-toolbar{
+	display: flex;
+	margin-top: 10px;
+}
+#login .button-one{
+	background-color: #30A080;
+	border-color: #30A080;
+	color: #fff;
+	min-width: 70px;
+	display: inline-block;
+}
+#login .button-two{
+	color: #2a8c70;
+	border-color: #2a8c70;
+	background-color: transparent;
+	min-width: 70px;
+	display: inline-block;
+}
+#login .foot{
+	position: relative;
+	margin-top: 10px;
+}
+#login .foot label{
+	color: #999;
+}
+#login .foot input{
+	height: auto;
+}
+#login i{
+	font-size: 12px;
+}
+#login .ma{
+	background-color: #fff;
+}
+#login .erweima{
+	font-size: 20px;
+	color: #00B51D;
+	line-height: 1;
+}
+#login .weixin{
+	color: #00B51D;
+	margin-left: 5px;
+}
+#login .weibo{
+	color: rgb(216,42,36);
+}
